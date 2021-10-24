@@ -18,7 +18,7 @@ let num2 = 32;
 */
 
 /*
-2. Do the following using `alert`, `prompt` and `confirm` and `console`
+2. Do the following using `alert`, `prompt` and `confirm` and `console` 
 
   - Using prompt accept the name of the user and store it a variable names `userName`
   - Using prompt accept the profession of the user and store it a variable names`userProfession`
