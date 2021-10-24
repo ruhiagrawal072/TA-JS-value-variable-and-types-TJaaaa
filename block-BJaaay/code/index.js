@@ -10,4 +10,4 @@
 
 // Calculate the sum of all numbers from 1 to 10.
 
-// Log all the values from 1 to 10 using while loop
+// Log all the values from 1 to 10 using while loop 
