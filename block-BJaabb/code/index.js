@@ -26,7 +26,7 @@ for (let j = 0; j <= 10; ____) console.log(j);
 
 /* 7. Take two value using prompt and store them in variables `num1` and `num2`. Check whether they are equal or not.
 
-- `alert` true or false base on the entered value.
+- `alert` true or false base on the entered value. 
 - if the input value is anything like `true`, `null` or `undefined` alert saying `Enter a valid value`.
 
 
