@@ -26,7 +26,7 @@ n = 7 => output: heeeeeeello
 Program to calculate the sum of first n natural numbers(1,2,3...n are known as natural numbers). Prompt user to enter n (using `prompt`) then based on input provided calculate and show result in `alert`.
 👇
 */
-// [Your code goes here]
+// [Your code goes here] 
 
 /* Switch Statement
 
