@@ -19,7 +19,7 @@ let lastName = "Stark";
 */
 
 let amount = 200;
-const taxPercent = 10;
+const taxPercent = 10; 
 
 /* Use string template literal:
   - Alert a message saying `The total amount is [amount]
